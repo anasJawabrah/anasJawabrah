@@ -1,8 +1,5 @@
 ### Hi there 👋 I am Anas Jawabrah
 
-
-### About Anas
-------------
 I am a  Fullstack developer with a passion for learning new technologies in software development. Skilled in React, Vue & Node.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasJawabrah&langs_count=5&layout=compact&hide=scss,css,html,blade)](https://github.com/anasJawabrah/github-readme-stats)
