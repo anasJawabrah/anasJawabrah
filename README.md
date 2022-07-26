@@ -16,4 +16,4 @@ I am a  Fullstack developer with a passion for learning new technologies in soft
 
 ### Most Used Languages
 ------------
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasJawabrah&langs_count=6&layout=compact&hide=scss,css,html)](https://github.com/anasJawabrah/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasJawabrah&langs_count=6&layout=compact&hide=scss,css,html,blade)](https://github.com/anasJawabrah/github-readme-stats)
