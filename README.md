@@ -16,4 +16,4 @@ I am a  Fullstack developer with a passion for learning new technologies in soft
 
 ### Most Used Languages
 ------------
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasJawabrah&langs_count=8&exclude_repo=i-Task,Project-7-Greenfield-Project)](https://github.com/anasJawabrah/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasJawabrah&langs_count=8&hide=php,css,html)](https://github.com/anasJawabrah/github-readme-stats)
