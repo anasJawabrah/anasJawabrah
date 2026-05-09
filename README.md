@@ -36,12 +36,19 @@ I enjoy transforming ideas into real-world products using modern JavaScript tech
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vue,angular,js,ts,html,css,tailwind" />
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="50" height="50" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,firebase" />
 
-### Tools
+### Templating & CMS
+<img src="https://skillicons.dev/icons?i=blade" />
+
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
@@ -80,11 +87,15 @@ I enjoy transforming ideas into real-world products using modern JavaScript tech
 
 ---
 
-# 🧠 Most Used Languages
+# 🧠 Most Used Technologies
 
 ```text
-JavaScript   ████████████████████░░░   80%
-React        ████████████████░░░░░░   65%
-Vue.js       ██████████████░░░░░░░░   55%
-Node.js      █████████████░░░░░░░░░   50%
-TypeScript   ██████████░░░░░░░░░░░░   35%
+JavaScript    ████████████████████░░░   85%
+React         █████████████████░░░░░   75%
+Vue.js        ███████████████░░░░░░░   65%
+Laravel       ██████████████░░░░░░░░   60%
+PHP           █████████████░░░░░░░░░   55%
+Angular       ████████████░░░░░░░░░░   50%
+React Native  ███████████░░░░░░░░░░░   45%
+Node.js       ███████████░░░░░░░░░░░   45%
+TypeScript    ██████████░░░░░░░░░░░░   35%
