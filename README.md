@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# Hi 👋, I'm Anas Jawabrah
-
 ### Full-Stack Developer | JavaScript Enthusiast | Problem Solver
 
 <p align="center">
